@@ -1,0 +1,6 @@
+#loginform p label #user_login, #loginform p label #user_pass {font-weight: normal; padding: 8px 9px; font-size: 14px;
+font-style: normal; border-right-color: #dadada; border-bottom-color: #dadada; color: #999 !important; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px; outline: none; text-shadow: 0px 1px 0px #fff; background-color: #fff; background: -webkit-gradient(linear, left top, left bottombottom, from(#f9f9f9), to(#ffffff)) !important; background: -webkit-linear-gradient(top, #f9f9f9, #ffffff) !important; background: -moz-linear-gradient(top,  #f9f9f9,  #ffffff) !important; background: -ms-linear-gradient(top, #f9f9f9, #ffffff) !important; background: -o-linear-gradient(top, #f9f9f9, #ffffff);}
+#loginform p label #user_login:focus, #loginform p label #user_pass:focus, #loginform p label #user_login:hover, #loginform p label #user_pass:hover {color: #777 !important; background: #fff !important;}
+#loginform p label #user_login:-webkit-autofill, #loginform p label #user_pass:-webkit-autofill {background-color: #fff !important;}
+#login h1 {display: block; position: relative; height: 99px; margin-top: 10px;}
+#login h1 a {background: #fff url(images/logo-login.png) no-repeat top center; display: block; width: 320px; height: 71px;}
